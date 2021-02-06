@@ -25,3 +25,8 @@
 ./Directory-File-Script/change-front-file-to-upper.pl - Change Target Directory With All SubDirectory to Upper for file ( Front Letter )
 
 ./Directory-File-Script/change-directory-to-lower.pl - Change Target Directory With All SubDirectory to lower case
+
+
+[ 0day (xc) Our ] 
+
+Contact : chat.freenode.net , channel #0xday
